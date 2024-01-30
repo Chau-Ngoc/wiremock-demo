@@ -1,0 +1,15 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/json-body"
+  },
+  "response": {
+    "status": 200,
+    "statusMessage": "Chau",
+    "jsonBody": {
+      "message": "This is a json body",
+      "type": "json",
+      "azureid": 1234556789
+    }
+  }
+}
